@@ -1,0 +1,93 @@
+2022-04-13 21:43:00,458 - INFO : handlers : batsman_Handler : Input value for batsman: 10 received from ip : localhost:5000
+2022-04-13 21:43:00,458 - INFO : handlers : batsman_Handler : Response sent: {'arg': 10, 'Batsman output': 'Sanath Jayasuriya'}
+2022-04-13 21:43:00,466 - ERROR : handlers : batsman_Handler : {'ERROR': 'Integer values are required'}
+2022-04-13 21:43:00,513 - INFO : handlers : bowler_Handler : Input values for Bowler (arg1: 2, arg2: 6) received from ip : localhost:5000
+2022-04-13 21:43:00,513 - INFO : handlers : bowler_Handler : Response sent: {'arg_1': 2, 'arg_2': 6, 'bowler output': 'Muralidaran broke 2 wicket/s from 6 ball/s'}
+2022-04-13 21:43:00,524 - ERROR : handlers : bowler_Handler : {'ERROR': 'Integer values are required'}
+2022-04-13 21:43:00,533 - INFO : handlers : keeper_Handler : Input value for Keeper: 5 received from ip : localhost:5000
+2022-04-13 21:43:00,533 - INFO : handlers : keeper_Handler : Response sent: {'arg': 5, 'Keeper Output': 'Romesh Kaluwitharana'}
+2022-04-13 21:43:00,543 - ERROR : handlers : keeper_Handler : {'ERROR': 'Integer values are required'}
+2022-04-13 21:46:50,430 - INFO : handlers : batsman_Handler : Input value for batsman: 10 received from ip : localhost:5000
+2022-04-13 21:46:50,431 - INFO : handlers : batsman_Handler : Response sent: {'arg': 10, 'Batsman output': 'Sanath Jayasuriya'}
+2022-04-13 21:46:50,442 - ERROR : handlers : batsman_Handler : {'ERROR': 'Integer values are required'}
+2022-04-13 21:46:50,488 - INFO : handlers : bowler_Handler : Input values for Bowler (arg1: 2, arg2: 6) received from ip : localhost:5000
+2022-04-13 21:46:50,489 - INFO : handlers : bowler_Handler : Response sent: {'arg_1': 2, 'arg_2': 6, 'bowler output': 'Muralidaran broke 2 wicket/s from 6 ball/s'}
+2022-04-13 21:46:50,498 - ERROR : handlers : bowler_Handler : {'ERROR': 'Integer values are required'}
+2022-04-13 21:46:50,508 - INFO : handlers : keeper_Handler : Input value for Keeper: 5 received from ip : localhost:5000
+2022-04-13 21:46:50,509 - INFO : handlers : keeper_Handler : Response sent: {'arg': 5, 'Keeper Output': 'Romesh Kaluwitharana'}
+2022-04-13 21:46:50,518 - ERROR : handlers : keeper_Handler : {'ERROR': 'Integer values are required'}
+2022-04-13 21:47:10,669 - INFO : handlers : batsman_Handler : Input value for batsman: 10 received from ip : localhost:5000
+2022-04-13 21:47:10,670 - INFO : handlers : batsman_Handler : Response sent: {'arg': 10, 'Batsman output': 'Sanath Jayasuriya'}
+2022-04-13 21:47:10,675 - ERROR : handlers : batsman_Handler : {'ERROR': 'Integer values are required'}
+2022-04-13 21:47:10,679 - ERROR : handlers : batsman_Handler : {'ERROR': 'Only positive values are allowed'}
+2022-04-13 21:47:10,683 - ERROR : handlers : batsman_Handler : {'ERROR': 'Content-Type not supported!'}. Received: text/plain from ip : localhost:5000
+2022-04-13 21:47:10,690 - INFO : handlers : bowler_Handler : Input values for Bowler (arg1: 2, arg2: 6) received from ip : localhost:5000
+2022-04-13 21:47:10,690 - INFO : handlers : bowler_Handler : Response sent: {'arg_1': 2, 'arg_2': 6, 'bowler output': 'Muralidaran broke 2 wicket/s from 6 ball/s'}
+2022-04-13 21:47:10,735 - ERROR : handlers : bowler_Handler : {'ERROR': 'Integer values are required'}
+2022-04-13 21:47:10,739 - ERROR : handlers : bowler_Handler : {'ERROR': 'Integer values are required'}
+2022-04-13 21:47:10,743 - ERROR : handlers : bowler_Handler : {'ERROR': 'Content-Type not supported!'}. Received: text/plain from ip : localhost:5000
+2022-04-13 21:47:10,748 - INFO : handlers : keeper_Handler : Input value for Keeper: 5 received from ip : localhost:5000
+2022-04-13 21:47:10,748 - INFO : handlers : keeper_Handler : Response sent: {'arg': 5, 'Keeper Output': 'Romesh Kaluwitharana'}
+2022-04-13 21:47:10,758 - ERROR : handlers : keeper_Handler : {'ERROR': 'Integer values are required'}
+2022-04-13 21:47:10,762 - ERROR : handlers : keeper_Handler : {'ERROR': 'Only positive values are allowed'}
+2022-04-13 21:47:10,766 - ERROR : handlers : batsman_Handler : {'ERROR': 'Content-Type not supported!'}. Received: text/plain from ip : localhost:5000
+2022-04-13 21:47:55,836 - INFO : handlers : batsman_Handler : Input value for batsman: 10 received from ip : localhost:5000
+2022-04-13 21:47:55,837 - INFO : handlers : batsman_Handler : Response sent: {'arg': 10, 'Batsman output': 'Sanath Jayasuriya'}
+2022-04-13 21:47:55,843 - ERROR : handlers : batsman_Handler : {'ERROR': 'Integer values are required'}
+2022-04-13 21:47:55,847 - ERROR : handlers : batsman_Handler : {'ERROR': 'Only positive values are allowed'}
+2022-04-13 21:47:55,850 - ERROR : handlers : batsman_Handler : {'ERROR': 'Content-Type not supported!'}. Received: text/plain from ip : localhost:5000
+2022-04-13 21:47:55,855 - INFO : handlers : bowler_Handler : Input values for Bowler (arg1: 2, arg2: 6) received from ip : localhost:5000
+2022-04-13 21:47:55,855 - INFO : handlers : bowler_Handler : Response sent: {'arg_1': 2, 'arg_2': 6, 'bowler output': 'Muralidaran broke 2 wicket/s from 6 ball/s'}
+2022-04-13 21:47:55,900 - ERROR : handlers : bowler_Handler : {'ERROR': 'Integer values are required'}
+2022-04-13 21:47:55,904 - ERROR : handlers : bowler_Handler : {'ERROR': 'Integer values are required'}
+2022-04-13 21:47:55,907 - ERROR : handlers : bowler_Handler : {'ERROR': 'Content-Type not supported!'}. Received: text/plain from ip : localhost:5000
+2022-04-13 21:47:55,913 - INFO : handlers : keeper_Handler : Input value for Keeper: 5 received from ip : localhost:5000
+2022-04-13 21:47:55,914 - INFO : handlers : keeper_Handler : Response sent: {'arg': 5, 'Keeper Output': 'Romesh Kaluwitharana'}
+2022-04-13 21:47:55,924 - ERROR : handlers : keeper_Handler : {'ERROR': 'Integer values are required'}
+2022-04-13 21:47:55,928 - ERROR : handlers : keeper_Handler : {'ERROR': 'Only positive values are allowed'}
+2022-04-13 21:47:55,931 - ERROR : handlers : batsman_Handler : {'ERROR': 'Content-Type not supported!'}. Received: text/plain from ip : localhost:5000
+2022-04-13 21:48:18,149 - INFO : handlers : batsman_Handler : Input value for batsman: 10 received from ip : localhost:5000
+2022-04-13 21:48:18,150 - INFO : handlers : batsman_Handler : Response sent: {'arg': 10, 'Batsman output': 'Sanath Jayasuriya'}
+2022-04-13 21:48:18,156 - ERROR : handlers : batsman_Handler : {'ERROR': 'Integer values are required'}
+2022-04-13 21:48:18,160 - ERROR : handlers : batsman_Handler : {'ERROR': 'Only positive values are allowed'}
+2022-04-13 21:48:18,165 - ERROR : handlers : batsman_Handler : {'ERROR': 'Content-Type not supported!'}. Received: text/plain from ip : localhost:5000
+2022-04-13 21:48:18,170 - INFO : handlers : bowler_Handler : Input values for Bowler (arg1: 2, arg2: 6) received from ip : localhost:5000
+2022-04-13 21:48:18,170 - INFO : handlers : bowler_Handler : Response sent: {'arg_1': 2, 'arg_2': 6, 'bowler output': 'Muralidaran broke 2 wicket/s from 6 ball/s'}
+2022-04-13 21:48:18,214 - ERROR : handlers : bowler_Handler : {'ERROR': 'Integer values are required'}
+2022-04-13 21:48:18,218 - ERROR : handlers : bowler_Handler : {'ERROR': 'Integer values are required'}
+2022-04-13 21:48:18,222 - ERROR : handlers : bowler_Handler : {'ERROR': 'Content-Type not supported!'}. Received: text/plain from ip : localhost:5000
+2022-04-13 21:48:18,227 - INFO : handlers : keeper_Handler : Input value for Keeper: 5 received from ip : localhost:5000
+2022-04-13 21:48:18,227 - INFO : handlers : keeper_Handler : Response sent: {'arg': 5, 'Keeper Output': 'Romesh Kaluwitharana'}
+2022-04-13 21:48:18,237 - ERROR : handlers : keeper_Handler : {'ERROR': 'Integer values are required'}
+2022-04-13 21:48:18,241 - ERROR : handlers : keeper_Handler : {'ERROR': 'Only positive values are allowed'}
+2022-04-13 21:48:18,244 - ERROR : handlers : batsman_Handler : {'ERROR': 'Content-Type not supported!'}. Received: text/plain from ip : localhost:5000
+2022-04-13 21:48:31,318 - INFO : handlers : batsman_Handler : Input value for batsman: 10 received from ip : localhost:5000
+2022-04-13 21:48:31,319 - INFO : handlers : batsman_Handler : Response sent: {'arg': 10, 'Batsman output': 'Sanath Jayasuriya'}
+2022-04-13 21:48:31,325 - ERROR : handlers : batsman_Handler : {'ERROR': 'Integer values are required'}
+2022-04-13 21:48:31,328 - ERROR : handlers : batsman_Handler : {'ERROR': 'Only positive values are allowed'}
+2022-04-13 21:48:31,332 - ERROR : handlers : batsman_Handler : {'ERROR': 'Content-Type not supported!'}. Received: text/plain from ip : localhost:5000
+2022-04-13 21:48:31,337 - INFO : handlers : bowler_Handler : Input values for Bowler (arg1: 2, arg2: 6) received from ip : localhost:5000
+2022-04-13 21:48:31,338 - INFO : handlers : bowler_Handler : Response sent: {'arg_1': 2, 'arg_2': 6, 'bowler output': 'Muralidaran broke 2 wicket/s from 6 ball/s'}
+2022-04-13 21:48:31,382 - ERROR : handlers : bowler_Handler : {'ERROR': 'Integer values are required'}
+2022-04-13 21:48:31,386 - ERROR : handlers : bowler_Handler : {'ERROR': 'Integer values are required'}
+2022-04-13 21:48:31,390 - ERROR : handlers : bowler_Handler : {'ERROR': 'Content-Type not supported!'}. Received: text/plain from ip : localhost:5000
+2022-04-13 21:48:31,395 - INFO : handlers : keeper_Handler : Input value for Keeper: 5 received from ip : localhost:5000
+2022-04-13 21:48:31,395 - INFO : handlers : keeper_Handler : Response sent: {'arg': 5, 'Keeper Output': 'Romesh Kaluwitharana'}
+2022-04-13 21:48:31,400 - ERROR : handlers : keeper_Handler : {'ERROR': 'Integer values are required'}
+2022-04-13 21:48:31,405 - ERROR : handlers : keeper_Handler : {'ERROR': 'Only positive values are allowed'}
+2022-04-13 21:48:31,408 - ERROR : handlers : batsman_Handler : {'ERROR': 'Content-Type not supported!'}. Received: text/plain from ip : localhost:5000
+2022-04-13 21:49:14,481 - INFO : handlers : batsman_Handler : Input value for batsman: 10 received from ip : localhost:5000
+2022-04-13 21:49:14,481 - INFO : handlers : batsman_Handler : Response sent: {'arg': 10, 'Batsman output': 'Sanath Jayasuriya'}
+2022-04-13 21:49:14,488 - ERROR : handlers : batsman_Handler : {'ERROR': 'Integer values are required'}
+2022-04-13 21:49:14,492 - ERROR : handlers : batsman_Handler : {'ERROR': 'Only positive values are allowed'}
+2022-04-13 21:49:14,496 - ERROR : handlers : batsman_Handler : {'ERROR': 'Content-Type not supported!'}. Received: text/plain from ip : localhost:5000
+2022-04-13 21:49:14,501 - INFO : handlers : bowler_Handler : Input values for Bowler (arg1: 2, arg2: 6) received from ip : localhost:5000
+2022-04-13 21:49:14,501 - INFO : handlers : bowler_Handler : Response sent: {'arg_1': 2, 'arg_2': 6, 'bowler output': 'Muralidaran broke 2 wicket/s from 6 ball/s'}
+2022-04-13 21:49:14,507 - ERROR : handlers : bowler_Handler : {'ERROR': 'Integer values are required'}
+2022-04-13 21:49:14,510 - ERROR : handlers : bowler_Handler : {'ERROR': 'Integer values are required'}
+2022-04-13 21:49:14,514 - ERROR : handlers : bowler_Handler : {'ERROR': 'Content-Type not supported!'}. Received: text/plain from ip : localhost:5000
+2022-04-13 21:49:14,519 - INFO : handlers : keeper_Handler : Input value for Keeper: 5 received from ip : localhost:5000
+2022-04-13 21:49:14,519 - INFO : handlers : keeper_Handler : Response sent: {'arg': 5, 'Keeper Output': 'Romesh Kaluwitharana'}
+2022-04-13 21:49:14,524 - ERROR : handlers : keeper_Handler : {'ERROR': 'Integer values are required'}
+2022-04-13 21:49:14,528 - ERROR : handlers : keeper_Handler : {'ERROR': 'Only positive values are allowed'}
+2022-04-13 21:49:14,532 - ERROR : handlers : batsman_Handler : {'ERROR': 'Content-Type not supported!'}. Received: text/plain from ip : localhost:5000
