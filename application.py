@@ -13,7 +13,7 @@ with open('config/config.yaml', 'r') as f:
 logger = logging.getLogger('sampleLogger')
 
 application = app = Flask(__name__)
-app.config["DEBUG"] = False
+app.config["DEBUG"] = True
 
 
 @app.route('/batsman/', methods = ['POST'])
